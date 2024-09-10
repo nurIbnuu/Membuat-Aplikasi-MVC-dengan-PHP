@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <div class="container">
+  <div class="container mb-4">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
         <a class="navbar-brand" href="<?= BASEURL; ?>">PHP MVC DASAR</a>
